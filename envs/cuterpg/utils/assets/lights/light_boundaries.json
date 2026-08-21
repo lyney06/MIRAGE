@@ -1,0 +1,32 @@
+[
+    {
+        "x": 228,
+        "y": 136,
+        "width": 8,
+        "height": 22,
+        "id": 1,
+        "num_corners": 0,
+        "name": "light",
+        "color": "red"
+    },
+    {
+        "x": 212,
+        "y": 136,
+        "width": 8,
+        "height": 22,
+        "id": 2,
+        "num_corners": 0,
+        "name": "light",
+        "color": "blue"
+    },
+    {
+        "x": 196,
+        "y": 136,
+        "width": 8,
+        "height": 22,
+        "id": 3,
+        "num_corners": 0,
+        "name": "light",
+        "color": "green"
+    }
+]

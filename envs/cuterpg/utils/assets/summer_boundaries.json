@@ -1,0 +1,1142 @@
+[
+    {
+        "x": 0,
+        "y": 424,
+        "width": 48,
+        "height": 60,
+        "id": 1,
+        "num_corners": 0,
+        "name": "special_hole_tree",
+        "color": "orange"
+    },
+    {
+        "x": 416,
+        "y": 417,
+        "width": 36,
+        "height": 50,
+        "id": 2,
+        "num_corners": 0,
+        "name": "triangular_tree",
+        "color": "red"
+    },
+    {
+        "x": 160,
+        "y": 417,
+        "width": 36,
+        "height": 50,
+        "id": 3,
+        "num_corners": 0,
+        "name": "triangular_tree",
+        "color": "orange"
+    },
+    {
+        "x": 448,
+        "y": 416,
+        "width": 48,
+        "height": 58,
+        "id": 4,
+        "num_corners": 0,
+        "name": "cluster_club_tree",
+        "color": "red"
+    },
+    {
+        "x": 192,
+        "y": 416,
+        "width": 96,
+        "height": 66,
+        "id": 5,
+        "num_corners": 0,
+        "name": "grouped_tree_comb1",
+        "color": "orange, red"
+    },
+    {
+        "x": 352,
+        "y": 384,
+        "width": 48,
+        "height": 46,
+        "id": 6,
+        "num_corners": 0,
+        "name": "cluster_rounded_tree",
+        "color": "red"
+    },
+    {
+        "x": 321,
+        "y": 384,
+        "width": 33,
+        "height": 33,
+        "id": 7,
+        "num_corners": 0,
+        "name": "rounded_tree",
+        "color": "red"
+    },
+    {
+        "x": 96,
+        "y": 384,
+        "width": 48,
+        "height": 46,
+        "id": 8,
+        "num_corners": 0,
+        "name": "cluster_rounded_tree",
+        "color": "orange"
+    },
+    {
+        "x": 65,
+        "y": 384,
+        "width": 33,
+        "height": 33,
+        "id": 9,
+        "num_corners": 0,
+        "name": "rounded_tree",
+        "color": "orange"
+    },
+    {
+        "x": 192,
+        "y": 338,
+        "width": 48,
+        "height": 57,
+        "id": 11,
+        "num_corners": 0,
+        "name": "cluster_club_tree",
+        "color": "orange"
+    },
+    {
+        "x": 416,
+        "y": 336,
+        "width": 24,
+        "height": 34,
+        "id": 14,
+        "num_corners": 0,
+        "name": "club_tree",
+        "color": "red"
+    },
+    {
+        "x": 160,
+        "y": 336,
+        "width": 24,
+        "height": 34,
+        "id": 17,
+        "num_corners": 0,
+        "name": "club_tree",
+        "color": "orange"
+    },
+    {
+        "x": 256,
+        "y": 328,
+        "width": 36,
+        "height": 45,
+        "id": 18,
+        "num_corners": 0,
+        "name": "dense_tree",
+        "color": "red"
+    },
+    {
+        "x": 0,
+        "y": 328,
+        "width": 36,
+        "height": 45,
+        "id": 19,
+        "num_corners": 0,
+        "name": "dense_tree",
+        "color": "orange"
+    },
+    {
+        "x": 352,
+        "y": 320,
+        "width": 48,
+        "height": 46,
+        "id": 20,
+        "num_corners": 0,
+        "name": "cluster_compact_tree",
+        "color": "red"
+    },
+    {
+        "x": 323,
+        "y": 320,
+        "width": 19,
+        "height": 22,
+        "id": 21,
+        "num_corners": 0,
+        "name": "compact_tree",
+        "color": "red"
+    },
+    {
+        "x": 96,
+        "y": 320,
+        "width": 48,
+        "height": 46,
+        "id": 22,
+        "num_corners": 0,
+        "name": "cluster_compact_tree",
+        "color": "orange"
+    },
+    {
+        "x": 67,
+        "y": 320,
+        "width": 19,
+        "height": 22,
+        "id": 23,
+        "num_corners": 0,
+        "name": "compact_tree",
+        "color": "orange"
+    },
+    {
+        "x": 0,
+        "y": 288,
+        "width": 60,
+        "height": 22,
+        "id": 24,
+        "num_corners": 0,
+        "name": "grouped_tree_comb2",
+        "color": "orange"
+    },
+    {
+        "x": 416,
+        "y": 258,
+        "width": 36,
+        "height": 49,
+        "id": 25,
+        "num_corners": 0,
+        "name": "tiered_tree",
+        "color": "red"
+    },
+    {
+        "x": 160,
+        "y": 258,
+        "width": 36,
+        "height": 49,
+        "id": 26,
+        "num_corners": 0,
+        "name": "tiered_tree",
+        "color": "orange"
+    },
+    {
+        "x": 448,
+        "y": 257,
+        "width": 48,
+        "height": 57,
+        "id": 27,
+        "num_corners": 0,
+        "name": "cluster_triangular_tree",
+        "color": "red"
+    },
+    {
+        "x": 192,
+        "y": 257,
+        "width": 108,
+        "height": 57,
+        "id": 28,
+        "num_corners": 0,
+        "name": "grouped_tree_comb3",
+        "color": "orange, red"
+    },
+    {
+        "x": 324,
+        "y": 256,
+        "width": 27,
+        "height": 33,
+        "id": 34,
+        "num_corners": 0,
+        "name": "chestnut_tree",
+        "color": "red"
+    },
+    {
+        "x": 272,
+        "y": 256,
+        "width": 54,
+        "height": 33,
+        "id": 35,
+        "num_corners": 0,
+        "name": "grouped_tree_comb4",
+        "color": "red"
+    },
+    {
+        "x": 197,
+        "y": 186,
+        "width": 12,
+        "height": 10,
+        "id": 39,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 181,
+        "y": 186,
+        "width": 12,
+        "height": 10,
+        "id": 40,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 133,
+        "y": 186,
+        "width": 12,
+        "height": 10,
+        "id": 41,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 117,
+        "y": 186,
+        "width": 12,
+        "height": 10,
+        "id": 42,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 148,
+        "y": 180,
+        "width": 14,
+        "height": 14,
+        "id": 45,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 84,
+        "y": 180,
+        "width": 14,
+        "height": 14,
+        "id": 46,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 200,
+        "y": 177,
+        "width": 14,
+        "height": 14,
+        "id": 47,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 136,
+        "y": 177,
+        "width": 14,
+        "height": 14,
+        "id": 49,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 197,
+        "y": 170,
+        "width": 12,
+        "height": 10,
+        "id": 51,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 181,
+        "y": 170,
+        "width": 12,
+        "height": 10,
+        "id": 52,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 133,
+        "y": 170,
+        "width": 12,
+        "height": 10,
+        "id": 53,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 117,
+        "y": 170,
+        "width": 12,
+        "height": 10,
+        "id": 54,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 256,
+        "y": 168,
+        "width": 48,
+        "height": 60,
+        "id": 55,
+        "num_corners": 0,
+        "name": "special_hole_tree",
+        "color": "green"
+    },
+    {
+        "x": 148,
+        "y": 164,
+        "width": 14,
+        "height": 14,
+        "id": 58,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 84,
+        "y": 164,
+        "width": 14,
+        "height": 14,
+        "id": 59,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 416,
+        "y": 161,
+        "width": 36,
+        "height": 50,
+        "id": 60,
+        "num_corners": 0,
+        "name": "tiered_tree",
+        "color": "green"
+    },
+    {
+        "x": 200,
+        "y": 161,
+        "width": 14,
+        "height": 14,
+        "id": 61,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 136,
+        "y": 161,
+        "width": 14,
+        "height": 14,
+        "id": 63,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 448,
+        "y": 160,
+        "width": 48,
+        "height": 58,
+        "id": 65,
+        "num_corners": 0,
+        "name": "cluster_club_tree",
+        "color": "green"
+    },
+    {
+        "x": 177,
+        "y": 145,
+        "width": 28,
+        "height": 26,
+        "id": 66,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 145,
+        "y": 145,
+        "width": 28,
+        "height": 26,
+        "id": 67,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 113,
+        "y": 145,
+        "width": 28,
+        "height": 26,
+        "id": 68,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 81,
+        "y": 145,
+        "width": 28,
+        "height": 26,
+        "id": 69,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 179,
+        "y": 131,
+        "width": 20,
+        "height": 18,
+        "id": 74,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 147,
+        "y": 131,
+        "width": 20,
+        "height": 18,
+        "id": 75,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 115,
+        "y": 131,
+        "width": 20,
+        "height": 18,
+        "id": 76,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 83,
+        "y": 131,
+        "width": 20,
+        "height": 18,
+        "id": 77,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 352,
+        "y": 128,
+        "width": 48,
+        "height": 46,
+        "id": 78,
+        "num_corners": 0,
+        "name": "cluster_rounded_tree",
+        "color": "green"
+    },
+    {
+        "x": 321,
+        "y": 128,
+        "width": 33,
+        "height": 33,
+        "id": 79,
+        "num_corners": 0,
+        "name": "rounded_tree",
+        "color": "green"
+    },
+    {
+        "x": 137,
+        "y": 90,
+        "width": 14,
+        "height": 12,
+        "id": 114,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 160,
+        "y": 81,
+        "width": 160,
+        "height": 30,
+        "id": 122,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 416,
+        "y": 80,
+        "width": 24,
+        "height": 34,
+        "id": 126,
+        "num_corners": 0,
+        "name": "club_tree",
+        "color": "green"
+    },
+    {
+        "x": 137,
+        "y": 74,
+        "width": 14,
+        "height": 12,
+        "id": 129,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 256,
+        "y": 72,
+        "width": 36,
+        "height": 45,
+        "id": 132,
+        "num_corners": 0,
+        "name": "dense_tree",
+        "color": "green"
+    },
+    {
+        "x": 178,
+        "y": 67,
+        "width": 24,
+        "height": 22,
+        "id": 136,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 162,
+        "y": 67,
+        "width": 24,
+        "height": 22,
+        "id": 137,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 224,
+        "y": 65,
+        "width": 32,
+        "height": 30,
+        "id": 139,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 210,
+        "y": 65,
+        "width": 24,
+        "height": 30,
+        "id": 140,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 194,
+        "y": 65,
+        "width": 24,
+        "height": 30,
+        "id": 141,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 352,
+        "y": 64,
+        "width": 48,
+        "height": 46,
+        "id": 143,
+        "num_corners": 0,
+        "name": "cluster_compact_tree",
+        "color": "green"
+    },
+    {
+        "x": 323,
+        "y": 64,
+        "width": 19,
+        "height": 22,
+        "id": 144,
+        "num_corners": 0,
+        "name": "compact_tree",
+        "color": "green"
+    },
+    {
+        "x": 218,
+        "y": 58,
+        "width": 12,
+        "height": 10,
+        "id": 147,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 208,
+        "y": 58,
+        "width": 12,
+        "height": 10,
+        "id": 148,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 161,
+        "y": 58,
+        "width": 10,
+        "height": 10,
+        "id": 150,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 233,
+        "y": 57,
+        "width": 12,
+        "height": 10,
+        "id": 151,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 225,
+        "y": 50,
+        "width": 10,
+        "height": 10,
+        "id": 154,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 218,
+        "y": 49,
+        "width": 12,
+        "height": 10,
+        "id": 156,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 181,
+        "y": 37,
+        "width": 12,
+        "height": 10,
+        "id": 163,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 166,
+        "y": 37,
+        "width": 10,
+        "height": 10,
+        "id": 164,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 256,
+        "y": 32,
+        "width": 60,
+        "height": 22,
+        "id": 169,
+        "num_corners": 0,
+        "name": "grouped_tree_comb2",
+        "color": "green"
+    },
+    {
+        "x": 416,
+        "y": 2,
+        "width": 36,
+        "height": 49,
+        "id": 170,
+        "num_corners": 0,
+        "name": "tiered_tree",
+        "color": "green"
+    },
+    {
+        "x": 448,
+        "y": 1,
+        "width": 48,
+        "height": 57,
+        "id": 171,
+        "num_corners": 0,
+        "name": "cluster_triangular_tree",
+        "color": "green"
+    },
+    {
+        "x": 356,
+        "y": 0,
+        "width": 42,
+        "height": 46,
+        "id": 175,
+        "num_corners": 0,
+        "name": "cluster_chestnut_tree",
+        "color": "green"
+    },
+    {
+        "x": 324,
+        "y": 0,
+        "width": 27,
+        "height": 33,
+        "id": 177,
+        "num_corners": 0,
+        "name": "chestnut_tree",
+        "color": "green"
+    },
+    {
+        "x": 272,
+        "y": 0,
+        "width": 54,
+        "height": 33,
+        "id": 178,
+        "num_corners": 0,
+        "name": "grouped_tree_comb4",
+        "color": "green"
+    },
+    {
+        "x": 352,
+        "y": 256,
+        "width": 45,
+        "height": 46,
+        "id": 206,
+        "num_corners": 0,
+        "name": "cluster_chestnut_tree",
+        "color": "red"
+    },
+    {
+        "x": 96,
+        "y": 256,
+        "width": 45,
+        "height": 46,
+        "id": 210,
+        "num_corners": 0,
+        "name": "cluster_chestnut_tree",
+        "color": "orange"
+    },
+    {
+        "x": 181,
+        "y": 177,
+        "width": 52,
+        "height": 28,
+        "id": 211,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 117,
+        "y": 177,
+        "width": 52,
+        "height": 28,
+        "id": 212,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 148,
+        "y": 177,
+        "width": 72,
+        "height": 20,
+        "id": 213,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 84,
+        "y": 177,
+        "width": 72,
+        "height": 20,
+        "id": 214,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 181,
+        "y": 161,
+        "width": 52,
+        "height": 28,
+        "id": 215,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 117,
+        "y": 161,
+        "width": 52,
+        "height": 28,
+        "id": 216,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 148,
+        "y": 161,
+        "width": 72,
+        "height": 20,
+        "id": 218,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 84,
+        "y": 161,
+        "width": 72,
+        "height": 20,
+        "id": 219,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 118,
+        "y": 112,
+        "width": 82,
+        "height": 30,
+        "id": 228,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 149,
+        "y": 105,
+        "width": 40,
+        "height": 44,
+        "id": 229,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 97,
+        "y": 114,
+        "width": 42,
+        "height": 24,
+        "id": 230,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 161,
+        "y": 97,
+        "width": 28,
+        "height": 52,
+        "id": 231,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 118,
+        "y": 96,
+        "width": 82,
+        "height": 30,
+        "id": 264,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 97,
+        "y": 98,
+        "width": 42,
+        "height": 24,
+        "id": 263,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 121,
+        "y": 80,
+        "width": 46,
+        "height": 32,
+        "id": 261,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 97,
+        "y": 80,
+        "width": 48,
+        "height": 30,
+        "id": 262,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 448,
+        "y": 80,
+        "width": 128,
+        "height": 156,
+        "id": 240,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 121,
+        "y": 64,
+        "width": 46,
+        "height": 32,
+        "id": 244,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 97,
+        "y": 64,
+        "width": 48,
+        "height": 30,
+        "id": 245,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 208,
+        "y": 49,
+        "width": 64,
+        "height": 62,
+        "id": 248,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 177,
+        "y": 49,
+        "width": 60,
+        "height": 62,
+        "id": 249,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 161,
+        "y": 50,
+        "width": 28,
+        "height": 26,
+        "id": 252,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 209,
+        "y": 33,
+        "width": 60,
+        "height": 28,
+        "id": 253,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 166,
+        "y": 37,
+        "width": 42,
+        "height": 10,
+        "id": 255,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 448,
+        "y": 0,
+        "width": 128,
+        "height": 156,
+        "id": 258,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 352,
+        "y": 0,
+        "width": 120,
+        "height": 124,
+        "id": 260,
+        "num_corners": 0,
+        "name": "",
+        "color": ""
+    },
+    {
+        "x": 194,
+        "y": 64,
+        "width": 67,
+        "height": 93,
+        "id": 233,
+        "num_corners": 0,
+        "name": "snow1",
+        "color": "none"
+    },
+    {
+        "x": 74,
+        "y": 14,
+        "width": 33,
+        "height": 37,
+        "id": 234,
+        "num_corners": 0,
+        "name": "snow2",
+        "color": "none"
+    },
+    {
+        "x": 10,
+        "y": 14,
+        "width": 33,
+        "height": 37,
+        "id": 235,
+        "num_corners": 0,
+        "name": "snow3",
+        "color": "none"
+    },
+    {
+        "x": 138,
+        "y": 8,
+        "width": 33,
+        "height": 42,
+        "id": 236,
+        "num_corners": 0,
+        "name": "snow4",
+        "color": "none"
+    },
+    {
+        "x": 196,
+        "y": 6,
+        "width": 66,
+        "height": 43,
+        "id": 237,
+        "num_corners": 0,
+        "name": "snow5",
+        "color": "none"
+    },
+    {
+        "x": 320,
+        "y": 0,
+        "width": 120,
+        "height": 46,
+        "id": 238,
+        "num_corners": 0,
+        "name": "iceblock",
+        "color": "none"
+    }
+]

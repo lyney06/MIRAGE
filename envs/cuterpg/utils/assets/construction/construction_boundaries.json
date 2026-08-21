@@ -1,0 +1,18 @@
+[
+    {
+        "width": 26,
+        "height": 40,
+        "id": 500,
+        "num_corners": 0,
+        "name": "barricade",
+        "color": "construction"
+    },
+    {
+        "width": 20,
+        "height": 30,
+        "id": 501,
+        "num_corners": 0,
+        "name": "cone",
+        "color": "construction"
+    }
+]

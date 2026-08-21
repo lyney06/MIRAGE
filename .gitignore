@@ -1,0 +1,23 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment / IDE / OS
+.DS_Store
+*.swp
+*.swo
+.venv/
+env/
+venv/
+env_tests/
+cachedir/
+*.code-workspace
+scripts/
+scratch/
+logs/
+logs_check/
+logs_rec/
+local.png

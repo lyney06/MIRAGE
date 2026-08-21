@@ -1,0 +1,7 @@
+from enum import Enum
+
+class ManualType(Enum):
+    NO_MANUAL = "NO_MANUAL" 
+    PERFECT_MANUAL = "PERFECT_MANUAL" 
+    DESCRIPTIVE_MANUAL = "DESCRIPTIVE_MANUAL" 
+    STEPWISE_MANUAL = "STEPWISE_MANUAL"

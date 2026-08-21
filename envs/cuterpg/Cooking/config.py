@@ -1,0 +1,9 @@
+# config.py
+
+WINDOW_WIDTH = 672
+WINDOW_HEIGHT = 576
+GRID_SIZE = 8
+CHARACTER_WIDTH = 3
+CHARACTER_HEIGHT = 3
+
+ASSETS_PATH = "envs/cuterpg/utils/assets/"

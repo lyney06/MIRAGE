@@ -1,0 +1,702 @@
+[
+    {
+        "x": 0,
+        "y": 424,
+        "width": 48,
+        "height": 60,
+        "id": 1,
+        "num_corners": 0,
+        "name": "special_hole_tree",
+        "color": "winter"
+    },
+    {
+        "x": 416,
+        "y": 417,
+        "width": 36,
+        "height": 50,
+        "id": 2,
+        "num_corners": 0,
+        "name": "triangular_tree",
+        "color": "winter"
+    },
+    {
+        "x": 160,
+        "y": 417,
+        "width": 36,
+        "height": 50,
+        "id": 3,
+        "num_corners": 0,
+        "name": "triangular_tree",
+        "color": "winter"
+    },
+    {
+        "x": 448,
+        "y": 416,
+        "width": 48,
+        "height": 58,
+        "id": 4,
+        "num_corners": 0,
+        "name": "cluster_club_tree",
+        "color": "winter"
+    },
+    {
+        "x": 192,
+        "y": 416,
+        "width": 96,
+        "height": 66,
+        "id": 5,
+        "num_corners": 0,
+        "name": "grouped_tree_comb1",
+        "color": "winter"
+    },
+    {
+        "x": 352,
+        "y": 384,
+        "width": 48,
+        "height": 46,
+        "id": 6,
+        "num_corners": 0,
+        "name": "cluster_rounded_tree",
+        "color": "winter"
+    },
+    {
+        "x": 321,
+        "y": 384,
+        "width": 33,
+        "height": 33,
+        "id": 7,
+        "num_corners": 0,
+        "name": "rounded_tree",
+        "color": "winter"
+    },
+    {
+        "x": 96,
+        "y": 384,
+        "width": 48,
+        "height": 46,
+        "id": 8,
+        "num_corners": 0,
+        "name": "cluster_rounded_tree",
+        "color": "winter"
+    },
+    {
+        "x": 65,
+        "y": 384,
+        "width": 33,
+        "height": 33,
+        "id": 9,
+        "num_corners": 0,
+        "name": "rounded_tree",
+        "color": "winter"
+    },
+    {
+        "x": 192,
+        "y": 338,
+        "width": 48,
+        "height": 57,
+        "id": 11,
+        "num_corners": 0,
+        "name": "cluster_club_tree",
+        "color": "winter"
+    },
+    {
+        "x": 416,
+        "y": 336,
+        "width": 24,
+        "height": 34,
+        "id": 14,
+        "num_corners": 0,
+        "name": "club_tree",
+        "color": "winter"
+    },
+    {
+        "x": 160,
+        "y": 336,
+        "width": 24,
+        "height": 34,
+        "id": 17,
+        "num_corners": 0,
+        "name": "club_tree",
+        "color": "winter"
+    },
+    {
+        "x": 256,
+        "y": 328,
+        "width": 36,
+        "height": 45,
+        "id": 18,
+        "num_corners": 0,
+        "name": "dense_tree",
+        "color": "winter"
+    },
+    {
+        "x": 0,
+        "y": 328,
+        "width": 36,
+        "height": 45,
+        "id": 19,
+        "num_corners": 0,
+        "name": "dense_tree",
+        "color": "winter"
+    },
+    {
+        "x": 352,
+        "y": 320,
+        "width": 48,
+        "height": 46,
+        "id": 20,
+        "num_corners": 0,
+        "name": "cluster_compact_tree",
+        "color": "winter"
+    },
+    {
+        "x": 323,
+        "y": 320,
+        "width": 19,
+        "height": 22,
+        "id": 21,
+        "num_corners": 0,
+        "name": "compact_tree",
+        "color": "winter"
+    },
+    {
+        "x": 96,
+        "y": 320,
+        "width": 48,
+        "height": 46,
+        "id": 22,
+        "num_corners": 0,
+        "name": "cluster_compact_tree",
+        "color": "winter"
+    },
+    {
+        "x": 67,
+        "y": 320,
+        "width": 19,
+        "height": 22,
+        "id": 23,
+        "num_corners": 0,
+        "name": "compact_tree",
+        "color": "winter"
+    },
+    {
+        "x": 0,
+        "y": 288,
+        "width": 60,
+        "height": 22,
+        "id": 24,
+        "num_corners": 0,
+        "name": "grouped_tree_comb2",
+        "color": "winter"
+    },
+    {
+        "x": 416,
+        "y": 258,
+        "width": 36,
+        "height": 49,
+        "id": 25,
+        "num_corners": 0,
+        "name": "tiered_tree",
+        "color": "winter"
+    },
+    {
+        "x": 160,
+        "y": 258,
+        "width": 36,
+        "height": 49,
+        "id": 26,
+        "num_corners": 0,
+        "name": "tiered_tree",
+        "color": "winter"
+    },
+    {
+        "x": 448,
+        "y": 257,
+        "width": 48,
+        "height": 57,
+        "id": 27,
+        "num_corners": 0,
+        "name": "cluster_triangular_tree",
+        "color": "winter"
+    },
+    {
+        "x": 192,
+        "y": 257,
+        "width": 108,
+        "height": 57,
+        "id": 28,
+        "num_corners": 0,
+        "name": "grouped_tree_comb3",
+        "color": "winter"
+    },
+    {
+        "x": 324,
+        "y": 256,
+        "width": 27,
+        "height": 33,
+        "id": 34,
+        "num_corners": 0,
+        "name": "chestnut_tree",
+        "color": "winter"
+    },
+    {
+        "x": 272,
+        "y": 256,
+        "width": 54,
+        "height": 33,
+        "id": 35,
+        "num_corners": 0,
+        "name": "grouped_tree_comb4",
+        "color": "winter"
+    },
+    {
+        "x": 256,
+        "y": 168,
+        "width": 48,
+        "height": 60,
+        "id": 55,
+        "num_corners": 0,
+        "name": "special_hole_tree",
+        "color": "winter"
+    },
+    {
+        "x": 416,
+        "y": 161,
+        "width": 36,
+        "height": 50,
+        "id": 60,
+        "num_corners": 0,
+        "name": "tiered_tree",
+        "color": "winter"
+    },
+    {
+        "x": 448,
+        "y": 160,
+        "width": 48,
+        "height": 58,
+        "id": 65,
+        "num_corners": 0,
+        "name": "cluster_club_tree",
+        "color": "winter"
+    },
+    {
+        "x": 352,
+        "y": 128,
+        "width": 48,
+        "height": 46,
+        "id": 78,
+        "num_corners": 0,
+        "name": "cluster_rounded_tree",
+        "color": "winter"
+    },
+    {
+        "x": 321,
+        "y": 128,
+        "width": 33,
+        "height": 33,
+        "id": 79,
+        "num_corners": 0,
+        "name": "rounded_tree",
+        "color": "winter"
+    },
+    {
+        "x": 416,
+        "y": 80,
+        "width": 24,
+        "height": 34,
+        "id": 126,
+        "num_corners": 0,
+        "name": "club_tree",
+        "color": "winter"
+    },
+    {
+        "x": 256,
+        "y": 72,
+        "width": 36,
+        "height": 45,
+        "id": 132,
+        "num_corners": 0,
+        "name": "dense_tree",
+        "color": "winter"
+    },
+    {
+        "x": 352,
+        "y": 64,
+        "width": 48,
+        "height": 46,
+        "id": 143,
+        "num_corners": 0,
+        "name": "cluster_compact_tree",
+        "color": "winter"
+    },
+    {
+        "x": 323,
+        "y": 64,
+        "width": 19,
+        "height": 22,
+        "id": 144,
+        "num_corners": 0,
+        "name": "compact_tree",
+        "color": "winter"
+    },
+    {
+        "x": 256,
+        "y": 32,
+        "width": 60,
+        "height": 22,
+        "id": 169,
+        "num_corners": 0,
+        "name": "grouped_tree_comb2",
+        "color": "winter"
+    },
+    {
+        "x": 416,
+        "y": 2,
+        "width": 36,
+        "height": 49,
+        "id": 170,
+        "num_corners": 0,
+        "name": "tiered_tree",
+        "color": "winter"
+    },
+    {
+        "x": 448,
+        "y": 1,
+        "width": 48,
+        "height": 57,
+        "id": 171,
+        "num_corners": 0,
+        "name": "cluster_triangular_tree",
+        "color": "winter"
+    },
+    {
+        "x": 356,
+        "y": 0,
+        "width": 42,
+        "height": 46,
+        "id": 175,
+        "num_corners": 0,
+        "name": "cluster_chestnut_tree",
+        "color": "winter"
+    },
+    {
+        "x": 324,
+        "y": 0,
+        "width": 27,
+        "height": 33,
+        "id": 177,
+        "num_corners": 0,
+        "name": "chestnut_tree",
+        "color": "winter"
+    },
+    {
+        "x": 272,
+        "y": 0,
+        "width": 54,
+        "height": 33,
+        "id": 178,
+        "num_corners": 0,
+        "name": "grouped_tree_comb4",
+        "color": "winter"
+    },
+    {
+        "x": 352,
+        "y": 256,
+        "width": 45,
+        "height": 46,
+        "id": 206,
+        "num_corners": 0,
+        "name": "cluster_chestnut_tree",
+        "color": "winter"
+    },
+    {
+        "x": 96,
+        "y": 256,
+        "width": 45,
+        "height": 46,
+        "id": 210,
+        "num_corners": 0,
+        "name": "cluster_chestnut_tree",
+        "color": "winter"
+    },
+    {
+        "x": 36,
+        "y": 450,
+        "width": 24,
+        "height": 30,
+        "id": 211,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 4,
+        "y": 450,
+        "width": 24,
+        "height": 30,
+        "id": 212,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 32,
+        "y": 436,
+        "width": 12,
+        "height": 10,
+        "id": 213,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 18,
+        "y": 436,
+        "width": 12,
+        "height": 10,
+        "id": 214,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 42,
+        "y": 428,
+        "width": 10,
+        "height": 10,
+        "id": 215,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 52,
+        "y": 418,
+        "width": 12,
+        "height": 10,
+        "id": 216,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 32,
+        "y": 418,
+        "width": 12,
+        "height": 10,
+        "id": 217,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 66,
+        "y": 388,
+        "width": 10,
+        "height": 10,
+        "id": 218,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 42,
+        "y": 362,
+        "width": 12,
+        "height": 10,
+        "id": 219,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 12,
+        "y": 362,
+        "width": 10,
+        "height": 10,
+        "id": 220,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 66,
+        "y": 292,
+        "width": 28,
+        "height": 22,
+        "id": 221,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 358,
+        "y": 276,
+        "width": 20,
+        "height": 42,
+        "id": 222,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 326,
+        "y": 276,
+        "width": 20,
+        "height": 42,
+        "id": 223,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 420,
+        "y": 266,
+        "width": 24,
+        "height": 52,
+        "id": 224,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 388,
+        "y": 266,
+        "width": 24,
+        "height": 52,
+        "id": 225,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 264,
+        "y": 260,
+        "width": 52,
+        "height": 60,
+        "id": 226,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 98,
+        "y": 260,
+        "width": 28,
+        "height": 22,
+        "id": 227,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 66,
+        "y": 260,
+        "width": 28,
+        "height": 22,
+        "id": 228,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 456,
+        "y": 256,
+        "width": 48,
+        "height": 64,
+        "id": 229,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 448,
+        "y": 98,
+        "width": 32,
+        "height": 28,
+        "id": 230,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 4,
+        "y": 70,
+        "width": 24,
+        "height": 22,
+        "id": 231,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 32,
+        "y": 66,
+        "width": 32,
+        "height": 30,
+        "id": 232,
+        "num_corners": 0,
+        "name": "",
+        "color": "winter"
+    },
+    {
+        "x": 194,
+        "y": 64,
+        "width": 67,
+        "height": 93,
+        "id": 233,
+        "num_corners": 0,
+        "name": "snow1",
+        "color": "winter"
+    },
+    {
+        "x": 74,
+        "y": 14,
+        "width": 33,
+        "height": 37,
+        "id": 234,
+        "num_corners": 0,
+        "name": "snow2",
+        "color": "winter"
+    },
+    {
+        "x": 10,
+        "y": 14,
+        "width": 33,
+        "height": 37,
+        "id": 235,
+        "num_corners": 0,
+        "name": "snow3",
+        "color": "winter"
+    },
+    {
+        "x": 138,
+        "y": 8,
+        "width": 33,
+        "height": 42,
+        "id": 236,
+        "num_corners": 0,
+        "name": "snow4",
+        "color": "winter"
+    },
+    {
+        "x": 196,
+        "y": 6,
+        "width": 66,
+        "height": 43,
+        "id": 237,
+        "num_corners": 0,
+        "name": "snow5",
+        "color": "winter"
+    },
+    {
+        "x": 320,
+        "y": 0,
+        "width": 120,
+        "height": 46,
+        "id": 238,
+        "num_corners": 0,
+        "name": "iceblock",
+        "color": "winter"
+    }
+]
